@@ -110,9 +110,7 @@ li{
 .container{
     text-align: center;
 }
-
 .imagem{
-    height: auto;
     background-image: url(../img/pattern.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -121,4 +119,5 @@ li{
     color: white;
     padding: 50px;
     font-size:1.2em;
+    
 }
